@@ -1,0 +1,30 @@
+# Отказ от ответственности / Disclaimer
+
+## Русский
+
+Всё содержимое этого репозитория (исходный код, прошивка, схемы, 3D-модели,
+результаты симуляции и документация) предоставляется «как есть», без каких-либо
+гарантий. Автор не несёт ответственности за любой ущерб, вред здоровью,
+потерю или повреждение имущества, а также другие последствия, возникшие
+в результате использования, изменения или распространения этих материалов
+другими людьми.
+
+Дополнительно:
+- Результаты симулятора приблизительные и основаны на упрощённой модели.
+  Не используйте их как единственное основание для решений, связанных
+  с безопасностью.
+- Постройка и запуск летающих моделей, ракет и электроники выполняются
+  на ваш собственный риск. Соблюдайте местные законы, правила безопасности
+  и требования к запускам, а также меры предосторожности при работе
+  с аккумуляторами, паяльником и инструментами.
+- Проект учебный и не является готовым или сертифицированным изделием.
+
+## English
+
+All content in this repository (source code, firmware, schematics, 3D models,
+simulation results and documentation) is provided "as is", without warranty
+of any kind. The author is not responsible for any damage, injury, loss of or
+damage to property, or other consequences arising from the use, modification
+or distribution of these materials by others. Simulation results are
+approximate. Building and launching flying models, rockets and electronics is
+done at your own risk; follow local laws and safety rules.
